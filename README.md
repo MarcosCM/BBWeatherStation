@@ -12,6 +12,7 @@ Project developed by:
 * Weather Cape
  
 # Software
+* [Angstrom distro](http://www.angstrom-distribution.org/)
 * Web server lighttpd
 * PHP5 with PHP-CGI
 
