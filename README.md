@@ -7,7 +7,7 @@ Project developed by:
 * [Marcos Canales Mayo](https://github.com/MarcosCM)
 * [Carlos Escuín Blasco](https://github.com/xarlieskin)
 
-# System
+# Hardware
 * BB White Rev A6a
 * Weather Cape
  
