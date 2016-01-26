@@ -4,7 +4,7 @@ This is a simple project to use data measured by the Weather Cape over the BB.
 
 # Project
 Project developed by:
-* [Marcos Canales Mayo](https://github.com/MarcosCM) (project leader)
+* [Marcos Canales Mayo](https://github.com/MarcosCM)
 * [Carlos Escuín Blasco](https://github.com/xarlieskin)
 
 # System
