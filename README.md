@@ -18,7 +18,7 @@ Project developed by:
 # Weather data collection
 Data collected reading inputs under /sys/bus/i2c/devices/i2c-1/ folder:
 * Temperature (ºC)
-* Presure (millibar)
+* Presure (bar)
 * Humidity (%)
 
 Periodically (using cron or a background service), every BB reads its parameters and sends them to the main BB in order to be stored there.
