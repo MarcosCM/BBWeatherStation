@@ -1,4 +1,4 @@
-# BeagleBoneServer
+# BBWeatherStation
 BeagleBone (BB) Web Server offering weather measures taken from Weather Capes of other BeagleBones.
 This is a simple project to use data measured by the Weather Cape over the BB.
 
